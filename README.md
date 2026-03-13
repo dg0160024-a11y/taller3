@@ -10,6 +10,7 @@ En este proyecto se implementará un programa en Java que utiliza estructuras de
 - Usar el codigo Ascii
 - Usar raices con ecuacion cuadratica
 - Validar las lecturas de los datos y sus posibles errores
+- Añadir un juego
 
 
 ## **El equipo se conforma por** 🌐:
