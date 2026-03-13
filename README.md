@@ -17,7 +17,7 @@ En este proyecto se implementará un programa en Java que utiliza estructuras de
 
 - **Daniel Gomez Yepes**
   
-- **Juan Felipe Vanegas Roja**
+- **Juan Felipe Vanegas Rojas**
 
 - **John Steven Pinzon Lenis** 
 
