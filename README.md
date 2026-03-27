@@ -26,4 +26,4 @@ En este proyecto se implementará un programa en Java que utiliza estructuras de
 
 ## **Enlaces utilizados**
 
-- [Video 1 ¿Que es un complidador?](https://www.ibm.com/mx-es/think/topics/compiler). 
+- [Video 1 ¿Que son los ciclos?].https://www.programarya.com/Cursos/Java/Ciclos 
