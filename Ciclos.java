@@ -112,7 +112,6 @@ public class Ciclos {
                         double x = -B / (2 * A);
                         System.out.println("Raíz única: " + x);
                     } else {
-                        // 👇 AQUÍ ESTÁ LO NUEVO (COMPLEJOS)
                         double real = -B / (2 * A);
                         double imaginario = Math.sqrt(-d) / (2 * A);
 
@@ -130,7 +129,7 @@ public class Ciclos {
 
                     for (int i = 1; i <= cantidad; i++) {
                         System.out.print("Número " + i + ": ");
-                        suma += sc.nextDouble(); // ✅ permite decimales
+                        suma += sc.nextDouble(); }}
                     }
 
                     double promedio = suma / cantidad;
