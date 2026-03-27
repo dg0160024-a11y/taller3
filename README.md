@@ -28,4 +28,4 @@ En este proyecto se implementará un programa en Java que utiliza estructuras de
 
 - [Video 1 ¿Que son los ciclos?].https://www.programarya.com/Cursos/Java/Ciclos
 - ¿Que son los ciclos de programacion en java? https://keepcoding.io/blog/bucles-o-ciclos-de-programacion/
-- 
+- Ciclo For en Java https://www.programarya.com/Cursos/Java/Ciclos/Ciclo-for
