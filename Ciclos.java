@@ -129,7 +129,7 @@ public class Ciclos {
 
                     for (int i = 1; i <= cantidad; i++) {
                         System.out.print("Número " + i + ": ");
-                        suma += sc.nextDouble(); }}
+                        suma += sc.nextDouble(); 
                     }
 
                     double promedio = suma / cantidad;
